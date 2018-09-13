@@ -1,4 +1,4 @@
-# Docker Image Processing
+# Docker Image Processing Image
 
 A Docker image for image processing (imagemagick, inkscape, ...)
 
