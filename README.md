@@ -1,6 +1,6 @@
 # Docker Image Processing Image
 
-A Docker image for image processing (imagemagick, inkscape, ...)
+A Docker image for image processing.
 
 ## Installed Packages
 
