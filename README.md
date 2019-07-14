@@ -14,3 +14,4 @@ A Docker image for image processing.
 - inkscape
 - imagemagick
 - librsvg
+
